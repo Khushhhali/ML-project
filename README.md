@@ -1,1 +1,2 @@
 # ML-project
+developing a machine learning model to predict employee salaries based on various factors like age, gender, education level, job title, and years of experience. The purpose of this project is to help HR departments make fair and data-driven decisions about employee compensation. By analyzing historical data, the model aims to provide accurate salary predictions. This solution can support better planning and transparency in salary structures.
